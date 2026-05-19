@@ -1,6 +1,6 @@
 //ES Palindromi-----------------------------------------/
 
-const inputWord = prompt('Inserisci una parola');
+const inputWord = prompt('Inserire una parola per verificare che sia palindroma');
 
 
 /** Funzione di validazionen input solo stringhe senza spazi e caratteri speciali*/ 
