@@ -68,9 +68,9 @@ if (isEven(sum)) {
 
   // --- Risultato ---
   if (result === inputChoice) {
-    alert(`Hai vinto! Hai scelto ${inputChoice}, Computer: ${computerNumber}. Somma = ${sum} (${result})`);
+    alert(`Hai vinto! Hai scelto ${inputChoice}, Computer: ${computerNumber}, Tu: ${inputNumber}. Somma = ${sum} (${result})`);
   } else {
-    alert(`Hai perso! Hai scelto ${inputChoice}, Computer: ${computerNumber}. Somma = ${sum} (${result})`);
+    alert(`Hai perso! Hai scelto ${inputChoice}, Computer: ${computerNumber}, Tu: ${inputNumber}. Somma = ${sum} (${result})`);
   }
 
 }
